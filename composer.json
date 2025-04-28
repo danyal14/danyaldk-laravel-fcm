@@ -2,6 +2,7 @@
     "name": "danyal.a.butt/laravel-fcm",
     "description": "Laravel Package for Google Firebase Cloud Messaging V1 API",
     "require": {
+        "php": ">=8.2",
         "laravel/laravel": "^11.0",
         "laravel/framework": "^11.0"
     },
@@ -16,7 +17,5 @@
             "email": "mig@danyal.dk"
         }
     ],
-    "require-dev": {
-        "phpunit/phpunit": "^12.1"
-    }
+    "minimum-stability": "stable"
 }
