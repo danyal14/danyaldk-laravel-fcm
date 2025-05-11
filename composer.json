@@ -1,22 +1,23 @@
 {
-    "name": "danyal.a.butt/laravel-fcm",
-    "description": "Laravel Package for Google Firebase Cloud Messaging V1 API",
-    "license": "MIT",
-    "require": {
-        "php": ">=8.2",
-        "laravel/laravel": "^11.0",
-        "laravel/framework": "^11.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "DanyalAButt\\LaravelFcm\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Danyal Butt",
-            "email": "mig@danyal.dk"
-        }
-    ],
-    "minimum-stability": "stable"
+  "name": "danyal.a.butt/laravel-fcm",
+  "description": "Laravel Package for Google Firebase Cloud Messaging V1 API",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "laravel/laravel": "^11.0",
+    "laravel/framework": "^11.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "DanyalAButt\\LaravelFcm\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Danyal Butt",
+      "email": "mig@danyal.dk"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
